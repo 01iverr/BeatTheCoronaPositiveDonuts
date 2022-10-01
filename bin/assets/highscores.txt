@@ -1,0 +1,6 @@
+
+TASOS 955
+BBBBBB 950
+TEST 940
+abcd 789
+basd 555
